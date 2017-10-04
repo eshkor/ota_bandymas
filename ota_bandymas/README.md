@@ -1,1 +1,0 @@
-# This directory is for a the TAR image, that the device will be asking to download
